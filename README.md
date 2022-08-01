@@ -37,4 +37,6 @@ sudo ./getplayer-linux --required --eulas-agreed
 sudo vmware-modconfig --console --install-all
 ```
 
+https://linuxize.com/post/how-to-install-vmware-workstation-player-on-ubuntu-20-04/
+
 _Obs: Disable secure boot in bios setup in case of vmmon error_
